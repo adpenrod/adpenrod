@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Alan Penrod and I am an aspiring software developer learning programming with Tech Elevator.
+
+This field interests me as I love solving puzzles and like being able to build something that will be able to be put to use.
