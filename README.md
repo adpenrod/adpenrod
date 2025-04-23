@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Alan Penrod and I am an aspiring software developer learning programming with Tech Elevator.
+My name is Alan Penrod and I am a junior software developer who graduated from Tech Elevator in December 2024.
 
-This field interests me as I love solving puzzles and like being able to build something that will be able to be put to use.
+In college I created interactive digital elements for websites and social media using the Adobe Creative Suite. I took programming courses, using HTML and CSS to develop webpages. This piqued my curiosity into how web applications work. I completed independent courses on Java which led me to Tech Elevator. My goal is to land an entry level software developer role.
